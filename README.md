@@ -34,7 +34,7 @@ Fabric API is already inside the jar; you don't need to install it.
 ## Install
 
 1. Install Fabric Loader for Minecraft 26.1.2 from [fabricmc.net](https://fabricmc.net/use/installer/).
-2. Put `tensura-reborn-0.1.0.jar` in your `.minecraft/mods` folder.
+2. Put `tensura-reborn-0.2.0.jar` in your `.minecraft/mods` folder.
 3. Start Minecraft with the Fabric profile.
 
 ## Terms
